@@ -7,8 +7,10 @@ Creado menu con opciones
 
 Slider con 4 imagenes
 
-Servicios con tres tarjetas
+Servicios con Seis tarjetas
 
-Llamada a una accion
+Mostrar los logos de los auspiciadores
+
+Fotos de los ejecutivos de la empresa
 
 Pie de pagina

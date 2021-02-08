@@ -6,4 +6,8 @@ Formulario para recibir consultas
 
 Incluido un mapa de la ubicación de la empresa
 
+Actualizado el correo electronico
+
+Los telefonos de referencia
+
 Incluido el pie de pagina
