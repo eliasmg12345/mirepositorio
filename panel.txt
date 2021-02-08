@@ -1,0 +1,7 @@
+Panel
+-----
+- Incluir logo
+- Opciones de perfil y salir
+- Barra de opciones lateral
+- El estado de la información de productos
+- Pie de pagina
