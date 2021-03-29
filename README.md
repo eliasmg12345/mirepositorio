@@ -6,3 +6,4 @@ Ejemplo de creación de repositorio en el curso taller del 2021
 
 - Mario Torrez
 - Bruno Diaz
+-juanito perez
